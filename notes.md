@@ -27,4 +27,16 @@ crudini
 
 
 
+# essence of old research from some old chrome windows
+
+<https://github.com/ungleich/cdist> zero dependency configurator python(backend) sh(frontend)
+
+<http://bundlewrap.org/> simple config manager - TODO check it !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+<http://docs.python-guide.org/en/latest/scenarios/admin/> - interesting page about pythonic SysOpsing
+
+<http://walterdejong.github.io/synctool/> - some other tool
+
+<http://bcfg2.org/> - and another one
+
 
